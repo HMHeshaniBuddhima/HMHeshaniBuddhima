@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hemantha&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=ffffff)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Heshania&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=ffffff)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A960FF&center=true&vCenter=true&random=false&width=600&lines=Computer+Science+Undergraduate;Aspiring+Data+Scientist;University+of+Vavuniya;Always+Learning+Something+New)](https://git.io/typing-svg)
 
@@ -14,7 +14,7 @@
 - 📍 **Location:** Sri Lanka
 - 🎯 **Current Focus:** Data Science & AI Fundamentals
 - 💡 **Interests:** Turning data into meaningful insights, building intelligent systems, and exploring new technologies
-- ✉️ **Contact:** [pamhem509@gmail.com](mailto:pamhem509@gmail.com)
+- ✉️ **Contact:** [heshanibuddhima2002@gmail.com](mailto:heshanibuddhima2002@gmail.com)
 
 ---
 
@@ -51,21 +51,21 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HBGPNHemantha&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A960FF&icon_color=A960FF&text_color=FFFFFF" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HBGPNHemantha&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A960FF&text_color=FFFFFF" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HMHeshaniBuddhima&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A960FF&icon_color=A960FF&text_color=FFFFFF" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HMHeshaniBuddhima&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A960FF&text_color=FFFFFF" alt="Top Languages" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HBGPNHemantha&theme=tokyonight&hide_border=true&background=0D1117&ring=A960FF&fire=A960FF&currStreakLabel=A960FF" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HMHeshaniBuddhima&theme=tokyonight&hide_border=true&background=0D1117&ring=A960FF&fire=A960FF&currStreakLabel=A960FF" alt="GitHub Streak" />
 </div>
 
 <br>
 
 <!-- Contribution Squares Grid -->
 <div align="center">
-  <img src="https://ghchart.rshah.org/A960FF/HBGPNHemantha" alt="HBGPNHemantha's Github Contribution Chart" />
+  <img src="https://ghchart.rshah.org/A960FF/HMHeshaniBuddhima" alt="HMHeshaniBuddhima's Github Contribution Chart" />
 </div>
 
 ---
@@ -74,12 +74,12 @@
 
 <div align="center">
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pamhem509@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HBGPNHemantha)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:heshanibuddhima2002@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HMHeshaniBuddhima)
 
 <br><br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=HBGPNHemantha&style=for-the-badge&color=A960FF)
+![Profile Views](https://komarev.com/ghpvc/?username=HMHeshaniBuddhima&style=for-the-badge&color=A960FF)
 
 </div>
 
