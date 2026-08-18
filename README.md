@@ -1,16 +1,16 @@
 #
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&color=FF4F4B&vCenter=true&width=1000&lines=Hi+there,+I'm+[ඔබේ නම]%F0%9F%91%8B;I'm+a+CS+Undergraduate;Tech+Enthusiast;Full+Stack+Developer&center=true&background=1c1917&size=20&padding=0" alt="Heshani's Header" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&color=FF4F4B&vCenter=true&width=1000&lines=Hi+there,+I'm+Heshani+Buddhima%F0%9F%91%8B;I'm+a+CS+Undergraduate;Tech+Enthusiast;Full+Stack+Developer&center=true&background=1c1917&size=20&padding=0" alt="Heshani's Header" />
 </h1>
 
 ---
 
 <p align="center">
-  <a href="mailto:[YOUR_EMAIL]">
+  <a href="mailto:your-email@gmail.com">
     <img src="https://img.shields.io/badge/Contact-Me-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="[YOUR_LINKEDIN_URL]">
+  <a href="https://linkedin.com/in/your-profile">
     <img src="https://img.shields.io/badge/LinkedIn-Me-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
@@ -31,12 +31,12 @@
 ## 📊 Performance Matrix
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HMHeshaniBuddhima&show_icons=true&title_color=fff&icon_color=FF4F4B&text_color=ccc&bg_color=1c1917&hide_border=true&count_private=true" alt="Heshani's Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HMHeshaniBuddhima&langs_count=10&title_color=fff&icon_color=FF4F4B&text_color=ccc&bg_color=1c1917&hide_border=true&layout=compact" alt="Heshani's Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=HMHeshaniBuddhima&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Heshani's Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HMHeshaniBuddhima&langs_count=10&theme=dark&hide_border=true&layout=compact" alt="Heshani's Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HMHeshaniBuddhima&theme=radical&hide_border=true&background=1c1917&text_color=ccc&current_color=FF4F4B&point_color=FF4F4B" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HMHeshaniBuddhima&theme=dark&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
@@ -44,5 +44,5 @@
 ## 🔥 Daily Rhythm
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HMHeshaniBuddhima&theme=algolia&bg_color=1c1917&title_color=FF4F4B&line=FF4F4B&point=1c1917&border=111827&line=FF4F4B&line=1c1917" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HMHeshaniBuddhima&theme=react-dark" alt="Activity Graph" />
 </p>
