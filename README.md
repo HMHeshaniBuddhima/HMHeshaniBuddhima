@@ -63,8 +63,9 @@
 
 <br>
 
+<!-- Contribution Squares Grid -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HBGPNHemantha&bg_color=0D1117&color=A960FF&line=A960FF&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph" />
+  <img src="https://ghchart.rshah.org/A960FF/HBGPNHemantha" alt="HBGPNHemantha's Github Contribution Chart" />
 </div>
 
 ---
