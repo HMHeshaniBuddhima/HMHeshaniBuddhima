@@ -51,11 +51,6 @@
 
 <br><br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=HMHeshaniBuddhima&style=for-the-badge&color=A960FF)
-
-</div>
-
----
 
 <div align="center">
 
