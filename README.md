@@ -48,34 +48,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HMHeshaniBuddhima&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A960FF&icon_color=A960FF&text_color=FFFFFF" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HMHeshaniBuddhima&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A960FF&text_color=FFFFFF" alt="Top Languages" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HMHeshaniBuddhima&theme=tokyonight&hide_border=true&background=0D1117&ring=A960FF&fire=A960FF&currStreakLabel=A960FF" alt="GitHub Streak" />
-</div>
-
-<br>
-
-<!-- Contribution Squares Grid -->
-<div align="center">
-  <img src="https://ghchart.rshah.org/A960FF/HMHeshaniBuddhima" alt="HMHeshaniBuddhima's Github Contribution Chart" />
-</div>
-
----
-
-## 📫 Connect With Me
-
-<div align="center">
-
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:heshanibuddhima2002@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HMHeshaniBuddhima)
 
 <br><br>
 
